@@ -2725,9 +2725,11 @@ input, select, textarea {
 				-ms-flex-shrink: 1;
 				flex-shrink: 1;
 				width: 100%;
+
 			}
 
 				ul.actions.fit li > * {
+
 					width: 100%;
 				}
 
@@ -2762,6 +2764,7 @@ input, select, textarea {
 
 					ul.actions:not(.fixed) li > * {
 						width: 100%;
+
 					}
 
 					ul.actions:not(.fixed) li:first-child {
