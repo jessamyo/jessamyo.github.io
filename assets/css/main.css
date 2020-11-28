@@ -3516,7 +3516,7 @@ input, select, textarea {
 
 	#footer > .inner .menu {
 		font-size: 0.8em;
-		color: rgba(255, 255, 255, 0.15);
+		color: rgba(255, 255, 255, 0.65);
 	}
 
 	#header + #wrapper + #footer > .inner {
@@ -3740,7 +3740,7 @@ input, select, textarea {
 			-ms-transition: color 0.2s ease;
 			transition: color 0.2s ease;
 			border: 0;
-			color: rgba(255, 255, 255, 0.65);
+			color: rgba(255, 255, 255, 0.75);
 			display: block;
 			font-size: 0.6em;
 			font-weight: bold;
